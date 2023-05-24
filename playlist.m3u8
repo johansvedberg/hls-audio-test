@@ -4,5 +4,5 @@
 #EXT-X-TARGETDURATION:4
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:4.032
-https://corsproxy.io/?https://github.com/johansvedberg/hls-audio-test/raw/main/item-00000000
+https://corsproxy.io/?https://github.com/johansvedberg/hls-audio-test/raw/main/item-1
 #EXT-X-ENDLIST
